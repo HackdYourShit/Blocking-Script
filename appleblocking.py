@@ -1,6 +1,6 @@
 from subprocess import *
 
-#***********Pravin Kumar Singh(suixido)*************
+#***********(suixido)*************
 
 var=input("Enter Domain Name:")
 
